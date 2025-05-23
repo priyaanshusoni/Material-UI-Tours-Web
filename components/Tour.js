@@ -22,8 +22,8 @@ function Tour() {
           offers a holiday experience unlike any other. Nestled in the Nevada
           desert, this dazzling city is world-renowned for its vibrant
           nightlife, luxurious casinos, spectacular shows, and iconic resorts
-          that line the famous Las Vegas Strip. Whether you're catching a Cirque
-          du Soleil performance, dining at a celebrity chef’s restaurant, or
+          that line the famous Las Vegas Strip. Whether you are catching a Cirque
+          du Soleil performance, dining at a celebrity chefs restaurant, or
           simply marveling at the themed hotels like the Venetian or the
           Bellagio, Las Vegas promises excitement at every turn. Beyond the
           glitz and glamour, visitors can explore natural wonders like Red Rock
